@@ -1,1 +1,2 @@
 Hi, wellcome to the git trail.test
+merging into main
